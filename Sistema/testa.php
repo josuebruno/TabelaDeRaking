@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>Validação de formulários em HTML5</title>
+     
+</head>
+<body>
+ 
+<form method="post" action="">
+    <label for="nome">Nome: </label>
+    <input id="nome" type=text required name=nome/>
+<br />
+    <label for="email">Email: </label>
+    <input id="email" type=text required name=email/>
+<input type=submit value="OK"/>
+ 
+</form>  
+ 
+</body>
+</html>
