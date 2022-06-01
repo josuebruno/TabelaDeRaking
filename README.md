@@ -1,0 +1,2 @@
+# TabelaDeRaking
+ Cadastra resultados dejogos.
