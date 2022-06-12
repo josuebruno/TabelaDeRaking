@@ -2,7 +2,6 @@
 <html lang="pt-br">
 <head>
     <title>Validação de formulários em HTML5</title>
-     
 </head>
 <body>
  
@@ -13,8 +12,6 @@
     <label for="email">Email: </label>
     <input id="email" type=text required name=email/>
 <input type=submit value="OK"/>
- 
 </form>  
-  
 </body>
 </html>
