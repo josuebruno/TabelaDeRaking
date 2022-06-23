@@ -1,6 +1,5 @@
 <?php
 
-
 $player1 = $_POST['player1'];
 $player2 = $_POST['player2'];
 
